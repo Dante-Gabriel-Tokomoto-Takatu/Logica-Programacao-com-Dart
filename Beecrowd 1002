@@ -1,0 +1,8 @@
+import 'dart:io';
+void main() {
+  double A, n, raio;
+  raio = double.parse(stdin.readLineSync());
+  n = 3.14159;
+  A = n * (raio*raio);
+  stdout.writeln("A=${A.toStringAsFixed(4)}");
+}

@@ -19,5 +19,5 @@ Resposta do 1002: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Progra
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/230535135-aa08f8ac-20e5-4401-9ec6-5147928180e9.PNG" />
 <br><br>
-Resposta do 1003: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201003
+Resposta do 1003: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Programacao-com-Dart/blob/main/Beecrowd%201003
 <br><br>

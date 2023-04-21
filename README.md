@@ -23,3 +23,9 @@ Resposta do 1002: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Progra
 <br><br>
 Resposta do 1003: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Programacao-com-Dart/blob/main/Beecrowd%201003
 <br><br>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/230536892-dd822d15-22dd-4952-8907-a01b5e17a870.PNG" />
+<br><br>
+Resposta do 1004: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Programacao-com-Dart/blob/main/Beecrowd%201004
+<br><br>
+

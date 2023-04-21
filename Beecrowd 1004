@@ -1,0 +1,12 @@
+import 'dart:io';
+void main() {
+  int A, B, PROD;
+  stdin.readLineSync().split(' ').forEach((element) {
+  A = int.parse(element);
+  });
+  stdin.readLineSync().split(' ').forEach((element) {
+  B = int.parse(element);
+  });
+  PROD = A * B;
+  print("PROD = $PROD");
+}

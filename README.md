@@ -1,5 +1,7 @@
 # Lógica de Programação com Dart.
 # Repositório de exercícios resolvidos Beecrowd.
+<br><br>
+Observação: No Beecrowd se eu colocar operador null assertion operator ! ele não aceita. Como exemplo a sintaxe A = int.parse(stdin.readLineSync()!); Tem que ser A = int.parse(stdin.readLineSync());
  <br><br>
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/232978157-8caf44b8-bb94-4b48-bca3-7c5988841f23.PNG" />

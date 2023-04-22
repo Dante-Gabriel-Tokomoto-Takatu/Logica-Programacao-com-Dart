@@ -31,5 +31,5 @@ Resposta do 1004: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Progra
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/230537336-d2771495-0269-489c-8f10-c46fca0daa72.PNG" />
 <br><br>
-Resposta do 1005:
-
+Resposta do 1005: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Programacao-com-Dart/blob/main/Beecrowd%201005
+<br><br>

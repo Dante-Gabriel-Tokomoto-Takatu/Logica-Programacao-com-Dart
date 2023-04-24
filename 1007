@@ -1,0 +1,13 @@
+import 'dart:io';
+
+void main() {
+  int A, B, C, D, dif;
+  A = int.parse(stdin.readLineSync());
+  B = int.parse(stdin.readLineSync());
+  C = int.parse(stdin.readLineSync());
+  D = int.parse(stdin.readLineSync());
+  
+  dif = A * B - C * D;
+  
+  print("DIFERENCA = $dif");
+}

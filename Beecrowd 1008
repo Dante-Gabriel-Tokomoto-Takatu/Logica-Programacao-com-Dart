@@ -1,0 +1,25 @@
+import 'dart:io';
+
+void main() {
+  int funcionario, horas;
+  double salario, x;
+
+  stdin.readLineSync().split(' ').forEach((element) {
+    funcionario = int.parse(element);
+  });
+  
+  
+  stdin.readLineSync().split(' ').forEach((element) {
+    horas = int.parse(element);
+  });
+  
+  
+  stdin.readLineSync().split(' ').forEach((element) {
+    salario = double.parse(element);
+  });
+
+  x = horas * salario;
+
+  print('NUMBER = $funcionario');
+  print('SALARY = U\$ ${x.toStringAsFixed(2)}');
+}

@@ -43,3 +43,8 @@ Resposta 1006: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Programac
 <br><br>
 Resposta 1007: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Programacao-com-Dart/blob/main/Beecrowd%201007
 <br><br>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/230828199-a6c189cb-9329-4c3a-8891-6a484eacc747.PNG" />
+<br><br>
+Resposta 1008: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Logica-Programacao-com-Dart/blob/main/Beecrowd%201008
+<br><br>

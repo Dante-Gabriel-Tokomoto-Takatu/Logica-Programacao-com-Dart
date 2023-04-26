@@ -1,0 +1,15 @@
+import 'dart:io';
+
+void main() {
+  String vendedor;
+  double salario, vendas, comissao;
+  
+  vendedor = stdin.readLineSync();
+  salario = double.parse(stdin.readLineSync());
+  vendas = double.parse(stdin.readLineSync());
+  
+  comissao = vendas * 0.15;
+  salario += comissao;
+  
+  print('TOTAL = R\$ ${salario.toStringAsFixed(2)}');
+}

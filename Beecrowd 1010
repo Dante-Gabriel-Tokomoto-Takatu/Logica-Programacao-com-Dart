@@ -1,0 +1,20 @@
+import 'dart:io';
+
+void main() {
+  double codigo_p1, n_p1, valor_p1, codigo_p2, n_p2, valor_p2, valor_pagar;
+  var input = stdin.readLineSync().split(' ');
+  
+  codigo_p1 = double.parse(input[0]);
+  n_p1 = double.parse(input[1]);
+  valor_p1 = double.parse(input[2]);
+
+  input = stdin.readLineSync().split(' ');
+  
+  codigo_p2 = double.parse(input[0]);
+  n_p2 = double.parse(input[1]);
+  valor_p2 = double.parse(input[2]);
+
+  valor_pagar = (n_p1 * valor_p1) + (n_p2 * valor_p2);
+
+  print("VALOR A PAGAR: R\$ ${valor_pagar.toStringAsFixed(2)}");
+}

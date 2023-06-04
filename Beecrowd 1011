@@ -1,0 +1,8 @@
+import 'dart:io';
+
+void main() {
+  double raio, volume;
+  raio = double.parse(stdin.readLineSync());
+  volume = (4.0 / 3.0) * 3.14159 * (raio * raio * raio);
+  stdout.writeln("VOLUME = ${volume.toStringAsFixed(3)}");
+}
